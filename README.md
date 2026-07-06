@@ -18,6 +18,7 @@
 - [04｜偏倚风险、报告规范与证据确定性分级](docs/04-risk-of-bias-and-certainty.md)
 - [05｜R语言实现路线图与常用代码骨架](docs/05-r-playbook.md)
 - [06｜论文写作、投稿与审稿人红线](docs/06-writing-and-reviewer-checklist.md)
+- [07｜术语、公式与常见陷阱速查](docs/07-glossary-formulas-and-pitfalls.md)
 
 ### 三、模板与清单
 
@@ -57,5 +58,5 @@
 
 ## 更新说明
 
-- 初始同步：建立中文Meta分析知识库骨架、核心知识点、R代码骨架、Protocol模板、分析计划模板、数据提取字典与指南索引。
+- 初始同步：建立中文Meta分析知识库骨架、核心知识点、R代码骨架、Protocol模板、分析计划模板、数据提取字典、术语公式速查与指南索引。
 - 维护建议：以后每次做具体课题时，在 `projects/` 下单独建目录，保留protocol、search strategy、screening log、extraction sheet、analysis script、figures、manuscript与response letter。
